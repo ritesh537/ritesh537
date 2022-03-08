@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ritesh
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning Docker and Kubermetes
+- 💞️ I’m looking to collaborate on DevOps
+- 📫 You can reach me at ritesh537@outlook.com
